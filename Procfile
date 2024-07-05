@@ -1,3 +1,3 @@
-worker: node gifted.js
+web: node . --server
 
-
+ 
